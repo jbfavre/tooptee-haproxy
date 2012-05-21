@@ -1,3 +1,10 @@
+haproxy (1.4.21-1~tooptee10+1) lucid; urgency=low
+
+  * New upstream version.
+  * dotBuntu build for Ubuntu 10.04 Lucid
+
+ -- Jean Baptiste Favre <jbfavre@dotbuntu.org>  Mon, 21 May 2012 10:32:45 +0200
+
 haproxy (1.4.20-1~tooptee10+1) lucid; urgency=low
 
   * New upstream version.
