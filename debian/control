@@ -1,7 +1,7 @@
 Source: haproxy
 Section: net
 Priority: optional
-Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Maintainer: Jean Baptiste Favre <ubuntu@jbfavre.org>
 XSBC-Original-Maintainer: Christo Buschek <crito@30loops.net>
 Uploaders: Arnaud Cornet <acornet@debian.org>
 Standards-Version: 3.9.1
